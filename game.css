@@ -1,0 +1,39 @@
+*{
+    text-align:center ;
+    background-color:#BB8ED0;
+    color:#194556;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.content{
+    margin-top: 6%;
+    font-size:xx-large;
+   
+}
+.heading{
+    font-family:Georgia;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: italic;
+}
+#userNo{
+    background-color: azure;
+
+    border: none;
+    text-shadow: 5px;
+    font-size: 35px;
+    font-family:Georgia;
+     font-style: italic;
+}
+.btn{
+    background-color: rgb(115, 69, 122);
+    color: #301134;
+    font-size: 35px;
+    font-family:Georgia;
+    font-style: italic;
+    border: none;
+
+}
+.dark{
+    background-color: black;
+}
